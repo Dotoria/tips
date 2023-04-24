@@ -1,0 +1,13 @@
+linux
+
+cd : move to
+  . : here
+  .. : upper dir
+  ~ : base
+mkdir : make dir
+ls : list
+
+/mnt/c/Users/seohyun/Downloads
+cp [filename] [path] : copy
+mv [filename] [path] : move
+rm -r [file] : remove
