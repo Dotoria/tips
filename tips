@@ -11,3 +11,4 @@ ls : list
 cp [filename] [path] : copy
 mv [filename] [path] : move
 rm -r [file] : remove
+gunzip [file.gz]
